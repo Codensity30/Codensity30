@@ -39,7 +39,7 @@ As a full-stack developer, I am fueled by my passion for coding and my unwaverin
 ## <h1>Leetcode Stats 🤨<h1>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Codensity_30?theme=unicorn&font=Raleway&ext=contest)
 
-#### Checkout [OptioNXT](https://optionxt.vercel.app/terminal), an advanced platform to analyze open interest data for NSE stocks.
+### 👉 Hey there! Don't leave just yet! I've got something exciting to share with you. Check out [OptioNXT](https://optionxt.vercel.app/terminal), my very own brainchild. It's an advanced platform designed to analyze open interest data for NSE stocks. Trust me, you don't want to miss out on this game-changing tool!
 
 
 <!--</div>-->
