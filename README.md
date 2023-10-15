@@ -1,4 +1,4 @@
-![banner](https://github.com/Codensity30/Codensity30/blob/main/Chasing%20Infinity.jpg)
+![badges](https://github.com/Codensity30/Codensity30/assets/129579058/a7162948-f4f6-4019-8aec-140500d4e544)
 
 ## <h1 align="center"> Hi there 👋</h1>
 
