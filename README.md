@@ -1,4 +1,4 @@
-![badges](https://github.com/Codensity30/Codensity30/assets/129579058/033a2558-f1d1-462f-b68d-102c3ad1ad47)
+![badges](https://github.com/Codensity30/Codensity30/assets/129579058/5926baf5-9cee-401f-bb74-fc69621147b2)
 
 ## <h1 align="center"> Hi there 👋</h1>
 
