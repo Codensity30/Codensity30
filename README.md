@@ -31,7 +31,7 @@ As a full-stack developer, I am fueled by my passion for coding and my unwaverin
 ## <h1>Languages and Tools 🛠<h1>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js,ts,github,vscode,tailwind,materialui,cpp&perline=14"/>
+   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,html,css,js,ts,github,vscode,tailwind,materialui,cpp&perline=14"/>
   </a>
 </p>
 
