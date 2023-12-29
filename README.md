@@ -7,7 +7,7 @@
 
 As a full-stack developer, I am fueled by my passion for coding and my unwavering focus on the MERN stack. My expertise in [Data Structures and Algorithms](https://leetcode.com/Codensity_30/) (DSA) allows me to create innovative solutions to even the most complex problems. But my skills don't stop there. I also have a knack for analyzing [technical charts for stocks](https://in.tradingview.com/u/Chaser30/), using my expertise to uncover valuable insights into the world of finance. I am constantly learning and growing, and I am excited to bring my skills to the table for exciting development projects and financial analysis endeavors. Let's create something amazing together!
 
-- 🌱 I’m currently learning [Go](https://github.com/Codensity30/Go-Exercises).
+- 🌱 I’m currently learning [Web3](https://github.com/Codensity30/web3-journey).
 - 👯 I’m looking for a full-time role as a Fullstack Developer or Software Engineer.
 - 💬 Ask me for anything, and I'll try to answer everything.
 - 📫 Don't hesitate to drop me a line right [here](mailto:codensity30@gmail.com)
