@@ -2,8 +2,8 @@
 
 ## <h1 align="center"> Hi there 👋</h1>
 
-- 🌱 I’m currently learning Golang.
-- 💬 Ask me for anything, and I'll try to answer everything.
+- 🧑🏻‍💻 Constantly exploring and enjoying everything tech.
+- 💬 Ask me anything, I'll try to answer everything.
 - 📫 Don't hesitate to drop me a line right [here](mailto:codensity30@gmail.com)
 - ⚡ My **CTC** breakdown - *Coding|Trading|Chasing* 
 
